@@ -1,5 +1,3 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/92540062?v=4" width="189"/> 
-
 ```py
   Name : Calvin
   Skillset : Lua, C++
