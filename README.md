@@ -1,7 +1,7 @@
 ```py
   Name : Calvin
   Skillset : Java, Python, Lua, C++
-  Discord  : 855022612136591370 / @dev.roblox.com
+  Discord  : 855022612136591370
   Hobbies  : [
    Game Development, App Development
   ],
