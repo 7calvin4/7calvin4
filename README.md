@@ -1,7 +1,7 @@
 ```py
   Name : Calvin
   Skillset : Java, Python, Lua, C++
-  Discord  : 855022612136591370
+  Discord  : feel.okay
   Hobbies  : [
    Game Development, App Development
   ],
