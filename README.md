@@ -1,8 +1,6 @@
-```py
-  Name : Calvin
-  Skillset : Java, Python, Lua, C++
-  Discord  : feel.okay
-  Hobbies  : [
-   Game Development, App Development
-  ],
-```
+<p>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=7calvin4&show_icons=true&theme=cobalt&count_private=true"/>
+</p>
+
+<p >   
+</p>
